@@ -4,7 +4,7 @@ import (
 	"os"
 	"restuarant-management-go/database"
 	"restuarant-management-go/middleware"
-	"restuarant-management-go/routes"
+	routes "restuarant-management-go/routes"
 
 	"github.com/gin-gonic/gin"
 	"go.mongodb.org/mongo-driver/mongo"
